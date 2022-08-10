@@ -1,0 +1,612 @@
+ <table border="1" class="dataframe" id="community-lists">
+    <thead>
+      <tr style="text-align: right;">
+        <th>BirdNET observations (&gt;0.5 confidence) and manual audio review</th>
+        <th>Combined human observations from study area, including AM (author), BVG (local birder), and RB (local birder)</th>
+        <th>2011 Massachusetts Breeding Bird Survey, within USGS quadrangle 0343/Greenfield - pooled blocks /02, /03, and /06</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Acadian Flycatcher</td>
+        <td>Alder Flycatcher</td>
+        <td>Alder Flycatcher</td>
+      </tr>
+      <tr>
+        <td>Alder Flycatcher</td>
+        <td>American Crow</td>
+        <td>American Bittern</td>
+      </tr>
+      <tr>
+        <td>American Bittern (manual review)</td>
+        <td>American Goldfinch</td>
+        <td>American Black Duck</td>
+      </tr>
+      <tr>
+        <td>American Crow</td>
+        <td>American Redstart</td>
+        <td>American Crow</td>
+      </tr>
+      <tr>
+        <td>American Goldfinch</td>
+        <td>American Robin</td>
+        <td>American Goldfinch</td>
+      </tr>
+      <tr>
+        <td>American Redstart</td>
+        <td>American Woodcock</td>
+        <td>American Redstart</td>
+      </tr>
+      <tr>
+        <td>American Robin</td>
+        <td>Bald Eagle</td>
+        <td>American Robin</td>
+      </tr>
+      <tr>
+        <td>Bald Eagle</td>
+        <td>Barn Swallow</td>
+        <td>American Woodcock</td>
+      </tr>
+      <tr>
+        <td>Baltimore Oriole</td>
+        <td>Barred Owl</td>
+        <td>Baltimore Oriole</td>
+      </tr>
+      <tr>
+        <td>Bank Swallow</td>
+        <td>Bay-breasted Warbler</td>
+        <td>Bank Swallow</td>
+      </tr>
+      <tr>
+        <td>Barn Swallow</td>
+        <td>Black-and-white Warbler</td>
+        <td>Barn Swallow</td>
+      </tr>
+      <tr>
+        <td>Barred Owl (manual review)</td>
+        <td>Black-capped Chickadee</td>
+        <td>Barred Owl</td>
+      </tr>
+      <tr>
+        <td>Bay-breasted Warbler</td>
+        <td>Black-throated Blue Warbler</td>
+        <td>Belted Kingfisher</td>
+      </tr>
+      <tr>
+        <td>Belted Kingfisher</td>
+        <td>Black-throated Green Warbler</td>
+        <td>Black-and-white Warbler</td>
+      </tr>
+      <tr>
+        <td>Black-and-white Warbler</td>
+        <td>Blackburnian Warbler</td>
+        <td>Black-billed Cuckoo</td>
+      </tr>
+      <tr>
+        <td>Blackburnian Warbler</td>
+        <td>Blackpoll Warbler</td>
+        <td>Black-capped Chickadee</td>
+      </tr>
+      <tr>
+        <td>Black-capped Chickadee</td>
+        <td>Blue Jay</td>
+        <td>Black-throated Blue Warbler</td>
+      </tr>
+      <tr>
+        <td>Blackpoll Warbler</td>
+        <td>Blue-headed Vireo</td>
+        <td>Black-throated Green Warbler</td>
+      </tr>
+      <tr>
+        <td>Black-throated Blue Warbler</td>
+        <td>Bobolink</td>
+        <td>Blackburnian Warbler</td>
+      </tr>
+      <tr>
+        <td>Black-throated Green Warbler</td>
+        <td>Broad-winged Hawk</td>
+        <td>Blue Jay</td>
+      </tr>
+      <tr>
+        <td>Blue Jay</td>
+        <td>Brown Creeper</td>
+        <td>Blue-gray Gnatcatcher</td>
+      </tr>
+      <tr>
+        <td>Blue-gray Gnatcatcher</td>
+        <td>Brown Thrasher</td>
+        <td>Blue-headed Vireo</td>
+      </tr>
+      <tr>
+        <td>Blue-headed Vireo</td>
+        <td>Brown-headed Cowbird</td>
+        <td>Blue-winged Warbler</td>
+      </tr>
+      <tr>
+        <td>Blue-winged Warbler</td>
+        <td>Cape May Warbler</td>
+        <td>Bobolink</td>
+      </tr>
+      <tr>
+        <td>Bobolink</td>
+        <td>Cedar Waxwing</td>
+        <td>Broad-winged Hawk</td>
+      </tr>
+      <tr>
+        <td>Broad-winged Hawk</td>
+        <td>Chestnut-sided Warbler</td>
+        <td>Brown Creeper</td>
+      </tr>
+      <tr>
+        <td>Brown Creeper</td>
+        <td>Chimney Swift</td>
+        <td>Brown Thrasher</td>
+      </tr>
+      <tr>
+        <td>Brown Thrasher</td>
+        <td>Chipping Sparrow</td>
+        <td>Brown-headed Cowbird</td>
+      </tr>
+      <tr>
+        <td>Brown-headed Cowbird</td>
+        <td>Common Grackle</td>
+        <td>Canada Goose</td>
+      </tr>
+      <tr>
+        <td>Canada Goose</td>
+        <td>Common Yellowthroat</td>
+        <td>Canada Warbler</td>
+      </tr>
+      <tr>
+        <td>Canada Warbler</td>
+        <td>Eastern Bluebird</td>
+        <td>Carolina Wren</td>
+      </tr>
+      <tr>
+        <td>Cape May Warbler</td>
+        <td>Eastern Kingbird</td>
+        <td>Cedar Waxwing</td>
+      </tr>
+      <tr>
+        <td>Carolina Wren</td>
+        <td>Eastern Meadowlark</td>
+        <td>Cerulean Warbler</td>
+      </tr>
+      <tr>
+        <td>Cedar Waxwing</td>
+        <td>Eastern Phoebe</td>
+        <td>Chestnut-sided Warbler</td>
+      </tr>
+      <tr>
+        <td>Chestnut-sided Warbler</td>
+        <td>Eastern Towhee</td>
+        <td>Chimney Swift</td>
+      </tr>
+      <tr>
+        <td>Chimney Swift</td>
+        <td>Eastern Wood-Pewee</td>
+        <td>Chipping Sparrow</td>
+      </tr>
+      <tr>
+        <td>Chipping Sparrow</td>
+        <td>Gray Catbird</td>
+        <td>Cliff Swallow</td>
+      </tr>
+      <tr>
+        <td>Common Grackle</td>
+        <td>Great Blue Heron</td>
+        <td>Common Grackle</td>
+      </tr>
+      <tr>
+        <td>Common Merganser</td>
+        <td>Great Horned Owl</td>
+        <td>Common Merganser</td>
+      </tr>
+      <tr>
+        <td>Common Raven</td>
+        <td>Hairy Woodpecker</td>
+        <td>Common Raven</td>
+      </tr>
+      <tr>
+        <td>Common Yellowthroat</td>
+        <td>Hermit Thrush</td>
+        <td>Common Yellowthroat</td>
+      </tr>
+      <tr>
+        <td>Cooper's Hawk</td>
+        <td>Hooded Warbler</td>
+        <td>Cooper's Hawk</td>
+      </tr>
+      <tr>
+        <td>Dark-eyed Junco</td>
+        <td>House Finch</td>
+        <td>Dark-eyed Junco</td>
+      </tr>
+      <tr>
+        <td>Downy Woodpecker</td>
+        <td>Indigo Bunting</td>
+        <td>Double-crested Cormorant</td>
+      </tr>
+      <tr>
+        <td>Eastern Bluebird</td>
+        <td>Least Flycatcher</td>
+        <td>Downy Woodpecker</td>
+      </tr>
+      <tr>
+        <td>Eastern Kingbird</td>
+        <td>Louisiana Waterthrush</td>
+        <td>Eastern Bluebird</td>
+      </tr>
+      <tr>
+        <td>Eastern Meadowlark</td>
+        <td>Magnolia Warbler</td>
+        <td>Eastern Kingbird</td>
+      </tr>
+      <tr>
+        <td>Eastern Phoebe</td>
+        <td>Merlin</td>
+        <td>Eastern Meadowlark</td>
+      </tr>
+      <tr>
+        <td>Eastern Towhee</td>
+        <td>Mourning Dove</td>
+        <td>Eastern Phoebe</td>
+      </tr>
+      <tr>
+        <td>Eastern Wood-Pewee</td>
+        <td>Nashville Warbler</td>
+        <td>Eastern Screech-Owl</td>
+      </tr>
+      <tr>
+        <td>Field Sparrow</td>
+        <td>Northern Cardinal</td>
+        <td>Eastern Towhee</td>
+      </tr>
+      <tr>
+        <td>Golden-crowned Kinglet</td>
+        <td>Northern Flicker</td>
+        <td>Eastern Wood-Pewee</td>
+      </tr>
+      <tr>
+        <td>Gray Catbird</td>
+        <td>Northern Parula</td>
+        <td>European Starling</td>
+      </tr>
+      <tr>
+        <td>Great Crested Flycatcher</td>
+        <td>Ovenbird</td>
+        <td>Evening Grosbeak</td>
+      </tr>
+      <tr>
+        <td>Green-winged Teal</td>
+        <td>Pileated Woodpecker</td>
+        <td>Field Sparrow</td>
+      </tr>
+      <tr>
+        <td>Hairy Woodpecker</td>
+        <td>Pine Warbler</td>
+        <td>Fish Crow</td>
+      </tr>
+      <tr>
+        <td>Hermit Thrush</td>
+        <td>Prairie Warbler</td>
+        <td>Gray Catbird</td>
+      </tr>
+      <tr>
+        <td>Hooded Warbler</td>
+        <td>Red-bellied Woodpecker</td>
+        <td>Great Blue Heron</td>
+      </tr>
+      <tr>
+        <td>House Finch</td>
+        <td>Red-breasted Nuthatch</td>
+        <td>Great Crested Flycatcher</td>
+      </tr>
+      <tr>
+        <td>House Sparrow</td>
+        <td>Red-eyed Vireo</td>
+        <td>Green Heron</td>
+      </tr>
+      <tr>
+        <td>Indigo Bunting</td>
+        <td>Rock Pigeon</td>
+        <td>Hairy Woodpecker</td>
+      </tr>
+      <tr>
+        <td>Killdeer</td>
+        <td>Rose-breasted Grosbeak</td>
+        <td>Hermit Thrush</td>
+      </tr>
+      <tr>
+        <td>Laughing Gull</td>
+        <td>Ruby-crowned Kinglet</td>
+        <td>Hooded Merganser</td>
+      </tr>
+      <tr>
+        <td>Least Flycatcher</td>
+        <td>Ruby-throated Hummingbird</td>
+        <td>House Finch</td>
+      </tr>
+      <tr>
+        <td>Louisiana Waterthrush</td>
+        <td>Scarlet Tanager</td>
+        <td>House Sparrow</td>
+      </tr>
+      <tr>
+        <td>Magnolia Warbler</td>
+        <td>Song Sparrow</td>
+        <td>House Wren</td>
+      </tr>
+      <tr>
+        <td>Mourning Dove</td>
+        <td>Swainson's Thrush</td>
+        <td>Indigo Bunting</td>
+      </tr>
+      <tr>
+        <td>Nashville Warbler</td>
+        <td>Tree Swallow</td>
+        <td>Killdeer</td>
+      </tr>
+      <tr>
+        <td>Northern Cardinal</td>
+        <td>Tufted Titmouse</td>
+        <td>Least Flycatcher</td>
+      </tr>
+      <tr>
+        <td>Northern Flicker</td>
+        <td>Turkey Vulture</td>
+        <td>Louisiana Waterthrush</td>
+      </tr>
+      <tr>
+        <td>Northern Parula</td>
+        <td>Veery</td>
+        <td>Magnolia Warbler</td>
+      </tr>
+      <tr>
+        <td>Northern Rough-winged Swallow</td>
+        <td>White-throated Sparrow</td>
+        <td>Mallard</td>
+      </tr>
+      <tr>
+        <td>Northern Waterthrush</td>
+        <td>Willow Flycatcher</td>
+        <td>Mourning Dove</td>
+      </tr>
+      <tr>
+        <td>Orchard Oriole</td>
+        <td>Wood Duck</td>
+        <td>Nashville Warbler</td>
+      </tr>
+      <tr>
+        <td>Osprey</td>
+        <td>Wood Thrush</td>
+        <td>Northern Cardinal</td>
+      </tr>
+      <tr>
+        <td>Ovenbird</td>
+        <td>Yellow Warbler</td>
+        <td>Northern Flicker</td>
+      </tr>
+      <tr>
+        <td>Palm Warbler</td>
+        <td>Yellow-bellied Sapsucker</td>
+        <td>Northern Mockingbird</td>
+      </tr>
+      <tr>
+        <td>Pileated Woodpecker</td>
+        <td>Yellow-rumped Warbler</td>
+        <td>Northern Parula</td>
+      </tr>
+      <tr>
+        <td>Pine Warbler</td>
+        <td>Yellow-throated Vireo</td>
+        <td>Northern Rough-winged Swallow</td>
+      </tr>
+      <tr>
+        <td>Prairie Warbler</td>
+        <td></td>
+        <td>Northern Waterthrush</td>
+      </tr>
+      <tr>
+        <td>Prothonotary Warbler</td>
+        <td></td>
+        <td>Orchard Oriole</td>
+      </tr>
+      <tr>
+        <td>Purple Finch</td>
+        <td></td>
+        <td>Ovenbird</td>
+      </tr>
+      <tr>
+        <td>Purple Martin</td>
+        <td></td>
+        <td>Pileated Woodpecker</td>
+      </tr>
+      <tr>
+        <td>Red-bellied Woodpecker</td>
+        <td></td>
+        <td>Pine Warbler</td>
+      </tr>
+      <tr>
+        <td>Red-breasted Nuthatch</td>
+        <td></td>
+        <td>Prairie Warbler</td>
+      </tr>
+      <tr>
+        <td>Red-eyed Vireo</td>
+        <td></td>
+        <td>Purple Finch</td>
+      </tr>
+      <tr>
+        <td>Red-shouldered Hawk</td>
+        <td></td>
+        <td>Red-bellied Woodpecker</td>
+      </tr>
+      <tr>
+        <td>Red-tailed Hawk</td>
+        <td></td>
+        <td>Red-breasted Nuthatch</td>
+      </tr>
+      <tr>
+        <td>Red-winged Blackbird</td>
+        <td></td>
+        <td>Red-eyed Vireo</td>
+      </tr>
+      <tr>
+        <td>Rock Pigeon</td>
+        <td></td>
+        <td>Red-headed Woodpecker</td>
+      </tr>
+      <tr>
+        <td>Rose-breasted Grosbeak</td>
+        <td></td>
+        <td>Red-shouldered Hawk</td>
+      </tr>
+      <tr>
+        <td>Ruby-crowned Kinglet</td>
+        <td></td>
+        <td>Red-tailed Hawk</td>
+      </tr>
+      <tr>
+        <td>Ruby-throated Hummingbird</td>
+        <td></td>
+        <td>Red-winged Blackbird</td>
+      </tr>
+      <tr>
+        <td>Ruffed Grouse</td>
+        <td></td>
+        <td>Rock Pigeon</td>
+      </tr>
+      <tr>
+        <td>Scarlet Tanager</td>
+        <td></td>
+        <td>Rose-breasted Grosbeak</td>
+      </tr>
+      <tr>
+        <td>Solitary Sandpiper</td>
+        <td></td>
+        <td>Ruby-throated Hummingbird</td>
+      </tr>
+      <tr>
+        <td>Song Sparrow</td>
+        <td></td>
+        <td>Ruffed Grouse</td>
+      </tr>
+      <tr>
+        <td>Spotted Sandpiper</td>
+        <td></td>
+        <td>Savannah Sparrow</td>
+      </tr>
+      <tr>
+        <td>Swainson's Thrush</td>
+        <td></td>
+        <td>Scarlet Tanager</td>
+      </tr>
+      <tr>
+        <td>Swamp Sparrow</td>
+        <td></td>
+        <td>Sharp-shinned Hawk</td>
+      </tr>
+      <tr>
+        <td>Tree Swallow</td>
+        <td></td>
+        <td>Song Sparrow</td>
+      </tr>
+      <tr>
+        <td>Tufted Titmouse</td>
+        <td></td>
+        <td>Spotted Sandpiper</td>
+      </tr>
+      <tr>
+        <td>Veery</td>
+        <td></td>
+        <td>Swamp Sparrow</td>
+      </tr>
+      <tr>
+        <td>Warbling Vireo</td>
+        <td></td>
+        <td>Tree Swallow</td>
+      </tr>
+      <tr>
+        <td>White-breasted Nuthatch</td>
+        <td></td>
+        <td>Tufted Titmouse</td>
+      </tr>
+      <tr>
+        <td>White-throated Sparrow</td>
+        <td></td>
+        <td>Turkey Vulture</td>
+      </tr>
+      <tr>
+        <td>Wild Turkey</td>
+        <td></td>
+        <td>unid. Pacific Wren / Winter Wren</td>
+      </tr>
+      <tr>
+        <td>Willow Flycatcher</td>
+        <td></td>
+        <td>Veery</td>
+      </tr>
+      <tr>
+        <td>Winter Wren</td>
+        <td></td>
+        <td>Warbling Vireo</td>
+      </tr>
+      <tr>
+        <td>Wood Duck</td>
+        <td></td>
+        <td>White-breasted Nuthatch</td>
+      </tr>
+      <tr>
+        <td>Wood Thrush</td>
+        <td></td>
+        <td>White-throated Sparrow</td>
+      </tr>
+      <tr>
+        <td>Worm-eating Warbler</td>
+        <td></td>
+        <td>Wild Turkey</td>
+      </tr>
+      <tr>
+        <td>Yellow Warbler</td>
+        <td></td>
+        <td>Willow Flycatcher</td>
+      </tr>
+      <tr>
+        <td>Yellow-bellied Sapsucker</td>
+        <td></td>
+        <td>Wood Duck</td>
+      </tr>
+      <tr>
+        <td>Yellow-billed Cuckoo</td>
+        <td></td>
+        <td>Wood Thrush</td>
+      </tr>
+      <tr>
+        <td>Yellow-rumped Warbler</td>
+        <td></td>
+        <td>Yellow Warbler</td>
+      </tr>
+      <tr>
+        <td>Yellow-throated Vireo</td>
+        <td></td>
+        <td>Yellow-bellied Sapsucker</td>
+      </tr>
+      <tr>
+        <td>Yellow-throated Warbler</td>
+        <td></td>
+        <td>Yellow-billed Cuckoo</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>Yellow-rumped Warbler</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>Yellow-throated Vireo</td>
+      </tr>
+
+    </tbody>
+  </table>
