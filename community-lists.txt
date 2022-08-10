@@ -1,4 +1,4 @@
- <table border="1" class="dataframe" id="community-lists">
+ <table border="1" class="dataframe" id="community-lists-table">
     <thead>
       <tr style="text-align: right;">
         <th>BirdNET observations (&gt;0.5 confidence) and manual audio review</th>
